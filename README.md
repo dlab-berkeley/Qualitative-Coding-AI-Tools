@@ -5,8 +5,7 @@
 This repository contains the materials for the D-Lab Qualitative Coding with AI
 Tools workshop.
 
-> **No installation, no programming, no API keys.** This workshop runs entirely in
-> a web browser. There is no DataHub or Binder link because there is no code to
+> This workshop runs entirely in a web browser. There is no DataHub or Binder link because there is no code to
 > run — see [Getting Set Up](#getting-set-up) below.
 
 ## Prerequisites
@@ -19,7 +18,7 @@ it. If you have hand-coded interview transcripts, fieldnotes, archival testimony
 or open-ended survey responses, you already have the skill this workshop is built
 on.
 
-Optional, and more useful afterwards than before:
+You may also be interested in these workshops:
 
 - **Introduction to Qualitative Data Analysis** — if you have never built a codebook
 - **Python Text Analysis** — if you want the programmatic version of this workflow
