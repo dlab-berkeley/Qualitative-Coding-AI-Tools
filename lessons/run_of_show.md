@@ -151,8 +151,8 @@ Returning to the intro slide:
 Participants should open:
 
 1. [`lessons/01_hand_coding.md`](../lessons/01_hand_coding.md)
-2. [`packet/codebook.md`](../packet/codebook.md)
-3. [`packet/exercise_1_hand_coding.md`](../packet/exercise_1_hand_coding.md)
+2. [`codebook.md`](..//codebook.md)
+3. [`exercise_1_hand_coding.md`](../exercise_1_hand_coding.md)
 
 
 > Keep the codebook and exercise sheet open. The lesson page only tells you what we are doing.
