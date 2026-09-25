@@ -1279,29 +1279,3 @@ That is the workshop.
 
 Everything else supports those seven moves.
 
----
-
-# 16. Final instructor checklist
-
-Before participants arrive, confirm:
-
-- [ ] Intro slides open
-- [ ] Conclusion slides open
-- [ ] Codebook opens correctly
-- [ ] Exercise 1 worksheet opens correctly
-- [ ] Live demo opens correctly
-- [ ] Corpus opens correctly
-- [ ] Precomputed results open correctly
-- [ ] Lesson 3 opens correctly
-- [ ] Lesson 4 opens correctly
-- [ ] AI Chat Run 1 is blank
-- [ ] AI Chat Run 2 is blank
-- [ ] You are signed in to the AI tool
-- [ ] Notifications are off
-- [ ] Timer is ready
-- [ ] Repository link is easy to share
-- [ ] Optional backup printouts are available
-- [ ] You have somewhere to write `T2-HARDSHIP — Version 1`
-- [ ] You know how to return to that Version 1 later
-
-Then teach the sequence rather than the technology.
