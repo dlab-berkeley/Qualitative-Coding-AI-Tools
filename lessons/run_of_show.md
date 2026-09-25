@@ -1,19 +1,17 @@
 # Instructor Run of Show — Qualitative Coding with AI Tools
 
 **Length:** 100 minutes  
-**Audience:** UC Berkeley PhD students in the humanities  
-**Technical level:** Assume zero technical background from both instructor and participants  
-**Format:** Browser-based; no programming, no API, no terminal, no installation
+**Audience:** UC Berkeley PhD students in the humanities/conducting qualitative reseach  
 
 ---
 
-# 1. What this workshop is trying to do
+# What this workshop is trying to do
 
 This is **not** a workshop about teaching participants to automate qualitative research.
 
 It is a workshop about helping researchers see what changes when an AI system enters a qualitative coding workflow.
 
-The workshop has one clear arc:
+The workshop's central arc:
 
 > **human coding → disagreement → AI coding → instability → evidence audit → codebook repair**
 
@@ -27,257 +25,8 @@ The main line to return to throughout the session is:
 
 > **No quote, no code.**
 
----
 
-# 2. What each file is for
-
-You do not need to memorize the repository structure.
-
-Think of the workshop materials in four groups.
-
-## A. Slides: what you project
-
-Use these only at the beginning and end.
-
-- [`slides/intro.md`](../slides/intro.md)
-- [`slides/conclusion.md`](../slides/conclusion.md)
-
-The slides are deliberately sparse. Do not try to teach the whole workshop from them.
-
----
-
-## B. Lessons: what tells participants what to do
-
-These are short navigation and framing pages.
-
-- [`lessons/01_hand_coding.md`](../lessons/01_hand_coding.md)
-- [`lessons/02_same_prompt_twice.md`](../lessons/02_same_prompt_twice.md)
-- [`lessons/03_audit_ai_output.md`](../lessons/03_audit_ai_output.md)
-- [`lessons/04_repair_the_codebook.md`](../lessons/04_repair_the_codebook.md)
-
-When participants ask, “What are we doing now?”, the current lesson page should answer that question.
-
----
-
-## C. Packet: the actual material participants work on
-
-- [`packet/codebook.md`](../packet/codebook.md)  
-  The shared coding rules.
-
-- [`packet/exercise_1_hand_coding.md`](../packet/exercise_1_hand_coding.md)  
-  The six passages participants code by hand.
-
-- [`packet/live_demo.md`](../packet/live_demo.md)  
-  The passage and exact prompt used for the same-prompt-twice demonstration.
-
-- [`packet/corpus_32_passages.md`](../packet/corpus_32_passages.md)  
-  The source text for all 32 passages.
-
-- [`packet/precomputed_results.md`](../packet/precomputed_results.md)  
-  The readable AI output participants audit.
-
-- [`packet/precomputed_results.csv`](../packet/precomputed_results.csv)  
-  Structured data version. **Do not use this with participants unless someone specifically wants to see the data format.**
-
----
-
-## D. Instructor materials: for you
-
-- `instructor/run_of_show.md` — this file
-- `instructor/answer_key.md` — to be built separately
-- `instructor/setup_checklist.md` — to be built separately
-
-Participants do not need these files.
-
----
-
-# 3. A few technical terms, in plain English
-
-If you are not comfortable with GitHub or Markdown, this is enough.
-
-## GitHub
-
-GitHub is just the website holding the workshop files.
-
-For this workshop, you do **not** need to know Git, version control, cloning, branches, commits, or repositories.
-
-You only need to be able to click a filename and read it in the browser.
-
----
-
-## Markdown / `.md`
-
-A file ending in `.md` is a plain-text document.
-
-GitHub displays it like a simple webpage with headings, links, bullets, and quotations.
-
-You do not need special software to open it.
-
----
-
-## Browser tab
-
-A tab is one page open across the top of your browser.
-
-You will deliberately keep several tabs open so you are not hunting for files during the workshop.
-
----
-
-## New chat
-
-For the live AI demonstration, “new chat” means a fresh conversation with no messages from the earlier run.
-
-Do not continue the second run underneath the first one.
-
----
-
-## `Cmd+F` / `Ctrl+F`
-
-This is useful during the audit exercise.
-
-- On a Mac: press **Command + F**
-- On Windows: press **Control + F**
-
-Then type a passage ID such as:
-
-`bha_1582_005`
-
-Your browser will jump to that text on the page.
-
-You can demonstrate this once. It saves a lot of scrolling.
-
----
-
-# 4. What to prepare before the workshop
-
-## One or two days before
-
-### Confirm that the files open
-
-Click through:
-
-1. `slides/intro.md`
-2. `packet/codebook.md`
-3. `packet/exercise_1_hand_coding.md`
-4. `packet/live_demo.md`
-5. `packet/corpus_32_passages.md`
-6. `packet/precomputed_results.md`
-7. `lessons/03_audit_ai_output.md`
-8. `lessons/04_repair_the_codebook.md`
-9. `slides/conclusion.md`
-
-Do not assume a link works because the filename exists.
-
----
-
-### Confirm that your AI chat account works
-
-You only need an ordinary chat interface.
-
-You do **not** need:
-
-- Codex;
-- an agent;
-- an API key;
-- Python;
-- an extension;
-- any paid developer tool.
-
-Open the chat tool you plan to demonstrate.
-
-Type a harmless test such as:
-
-> Say hello in one sentence.
-
-If you get an answer, you are set.
-
-Delete or ignore that test conversation afterward.
-
----
-
-### Decide how participants will access the workshop
-
-The easiest setup is:
-
-- share the GitHub repository link at the beginning;
-- put the repository link in the workshop email;
-- optionally put it in the Zoom/chat/room display if relevant.
-
-Do not make participants download the whole repository unless there is a separate reason to do so.
-
-Everything can be read in a browser.
-
----
-
-### Optional but recommended: print a few backups
-
-If possible, print a small number of copies of:
-
-- `codebook.md`
-- `exercise_1_hand_coding.md`
-
-These are useful if someone has Wi-Fi trouble or arrives without a laptop.
-
-You do **not** need to print the 32-passage corpus.
-
----
-
-# 5. Set up your computer before participants arrive
-
-Do this **before** the room fills.
-
-The goal is to avoid navigating through folders while people watch.
-
-## Window 1 — What participants will see on the projector
-
-Open these tabs in this order:
-
-1. `slides/intro.md`
-2. AI Chat — blank conversation for Run 1
-3. AI Chat — second blank conversation for Run 2
-4. `packet/live_demo.md`
-5. `packet/corpus_32_passages.md`
-6. `packet/precomputed_results.md`
-7. `lessons/03_audit_ai_output.md`
-8. `lessons/04_repair_the_codebook.md`
-9. `slides/conclusion.md`
-
-You may not use every tab immediately. That is fine.
-
-The point is that they are already open.
-
----
-
-## Window 2 — Your private instructor window
-
-Keep this off the projector if possible.
-
-Open:
-
-1. this `run_of_show.md`
-2. the codebook
-3. the hand-coding worksheet
-4. a timer
-
-If you use speaker notes in your slide renderer, keep those available too.
-
----
-
-## Important: turn off distractions
-
-Before class:
-
-- silence email notifications;
-- silence Slack/Teams/Message notifications;
-- close personal tabs;
-- close anything containing sensitive information;
-- disable browser notification popups if possible.
-
-You will be screen-sharing an AI chat window. Assume anything visible on the screen can be seen by the room.
-
----
-
-# 6. The 100-minute schedule at a glance
+# The 100-minute schedule at a glance
 
 | Time | What happens | What you use | What participants use |
 |---|---|---|---|
@@ -310,39 +59,26 @@ Start on:
 
 > **Qualitative Coding with AI Tools**
 
-## Say roughly
+## Greetings
 
 > Welcome. This is not a programming workshop. You will not need Python, an API key, or any knowledge of how GitHub works. The skill we are using today is close reading.
 >
 > We are going to use AI, but the workshop is really about something more basic: when a model gives us a coding decision, how do we know what it actually did?
 
-Do not give a long biography of the workshop or explain the repository yet.
-
-The first three minutes should lower anxiety and establish the question.
 
 ---
 
 # 0:03–0:10 — Introductory framing
 
-Move through the intro slides fairly quickly.
+Move through the intro slides.
 
 ## Slide: “You do not need to be technical”
 
-Say:
-
 > If you can read a passage closely and explain why a phrase matters, you have the skill we need today.
-
-Do not ask who knows Python.
-
-Do not ask who has used an API.
-
-Those questions make beginners feel like they are already behind.
 
 ---
 
 ## Slide: “What we are really asking”
-
-Emphasize:
 
 > We are not asking whether the tool can produce labels. It obviously can. We are asking whether those labels remain attached to evidence we can inspect.
 
@@ -350,21 +86,14 @@ Emphasize:
 
 ## Slides on the corpus / Bracero Program
 
-Keep the history brief.
-
-Say roughly:
 
 > These are oral-history passages connected to the Bracero Program, the guest-worker system that operated from 1942 to 1964. You do not need prior expertise on the program for today’s exercises.
 >
 > The important thing is that these are human memories about labor, migration, family, wages, housing, injury, and dignity. That makes careless quotation or overconfident interpretation consequential.
 
-Do **not** turn this into a ten-minute history lecture.
-
 ---
 
 ## Slide: “What is qualitative coding?”
-
-Say:
 
 > Coding is attaching a label to a piece of text because we think something analytically meaningful is happening there.
 >
@@ -380,17 +109,13 @@ The intro slide:
 
 > **The codebook is our shared rulebook**
 
-Then, if useful, briefly open:
+open:
 
 `packet/codebook.md`
 
-Do **not** read every definition aloud.
 
-That would take too long and make the room passive.
 
 ## Explain only the architecture
-
-Say:
 
 > There are two tiers.
 >
@@ -406,21 +131,16 @@ Then:
 
 ## Introduce the main rule
 
-Return to the intro slide:
+Returning to the intro slide:
 
 > **No quote, no code.**
 
-Say slowly:
 
 > Every time we apply a code today, we need exact words from the passage.
 >
 > Not a paraphrase. Not a summary. Not “the vibe of the passage.”
 >
 > Exact words.
-
-Pause briefly.
-
-This is the conceptual center of the workshop.
 
 ---
 
@@ -434,7 +154,6 @@ Participants should open:
 2. [`packet/codebook.md`](../packet/codebook.md)
 3. [`packet/exercise_1_hand_coding.md`](../packet/exercise_1_hand_coding.md)
 
-If the room is confused by three tabs, simplify:
 
 > Keep the codebook and exercise sheet open. The lesson page only tells you what we are doing.
 
@@ -442,7 +161,6 @@ If the room is confused by three tabs, simplify:
 
 ## Explain the timing
 
-Say:
 
 > You have 12 minutes working alone.
 >
@@ -452,15 +170,11 @@ Say:
 >
 > There is no need to finish perfectly.
 
-Start a 12-minute timer.
 
 ---
 
-## What you should do during the 12 minutes
+## During the 12 minutes
 
-Do not lecture.
-
-Walk around.
 
 If someone asks, “What is the correct code?”, say:
 
@@ -482,27 +196,15 @@ Do not explain what the final hardship definition should be.
 
 ---
 
-## Important: do not announce the contradiction
-
 `bha_1561_001` describes deductions and a tiny remaining paycheck.
 
 `bha_1574_002` says the workers were paid in full and no wages were deducted.
 
 They appear back to back on purpose.
 
-Do **not** tell participants:
-
-> These passages contradict each other.
-
-Let the room notice.
-
-That discovery is more useful when it comes from them.
-
 ---
 
 ## At 12 minutes
-
-Say:
 
 > Stop where you are. You do not need to finish every passage.
 >
@@ -518,13 +220,9 @@ Start a 4-minute timer.
 
 Bring the room back.
 
-Do not go passage by passage and announce “correct answers.”
-
-That would undermine the point.
 
 ## Start with a show of hands
 
-Ask:
 
 > Who found at least one passage where you and your partner used different codes?
 
@@ -567,8 +265,6 @@ Why it is useful:
 - the narrator describes a recordkeeping system;
 - the racial distinction in names versus numbers may also provoke interpretive discussion.
 
-Do not force a Tier 2 code.
-
 ---
 
 ### `bha_1561_001`
@@ -610,7 +306,7 @@ Ask:
 
 > Does the passage grant workers agency, or is it primarily about outsiders watching and interpreting their behavior?
 
-Do not resolve this too quickly.
+
 
 ---
 
@@ -648,11 +344,6 @@ and juxtaposes merchant profit with mistreatment.
 
 This is a live group exercise.
 
-## Use
-
-A whiteboard, projected notes document, or physical board.
-
-Do not bury this in slides.
 
 Write at the top:
 
@@ -661,12 +352,6 @@ Write at the top:
 Ask:
 
 > Based on what you just coded, what should count as hardship?
-
-Write their language, not yours.
-
-You are not trying to produce a perfect definition.
-
-You are producing a record of the room’s current assumptions.
 
 ---
 
@@ -688,13 +373,8 @@ Ask:
 
 ## Stop after five minutes
 
-Even if the definition is messy.
 
-That is desirable.
-
-Say:
-
-> Good. Leave this as Version 1. We are going to come back to it after we see what the AI does.
+> We are going to come back to it after we see what the AI does.
 
 Save the note or leave it visible somewhere you can recover later.
 
@@ -728,7 +408,7 @@ That is intentional.
 
 ## Run 1
 
-Switch to your first blank AI chat.
+Switch to the first blank AI chat.
 
 ### Step 1
 
@@ -751,10 +431,6 @@ From `live_demo.md`, paste:
 
 Send.
 
-Do not add extra instructions after sending.
-
-Do not “help” the model.
-
 Read the answer with the room.
 
 ---
@@ -768,7 +444,6 @@ Ask participants to note:
 - evidence spans;
 - ambiguity note.
 
-You do not need to transcribe the whole answer.
 
 ---
 
@@ -785,7 +460,6 @@ Repeat the same sequence:
 3. paste the same prompt;
 4. send.
 
-Do not tell the second chat what the first chat said.
 
 ---
 
@@ -815,8 +489,6 @@ Also fine.
 
 Do **not** panic and do not keep rerunning until you manufacture disagreement.
 
-Say:
-
 > On these two runs, the output happened to be stable. That is useful information, but two matching runs do not establish reliability for the model, the codebook, or the larger corpus.
 
 Then compare smaller things:
@@ -826,9 +498,6 @@ Then compare smaller things:
 - ambiguity;
 - omitted codes.
 
-If the room sees no meaningful difference at all, move on.
-
-The workshop does not depend on forcing variation.
 
 ---
 
@@ -848,10 +517,6 @@ The next exercise is designed for that.
 
 Stop the activity.
 
-Do not leave the chat window as the visual focus if possible.
-
-Use a plain screen or simply speak.
-
 ## Say roughly
 
 > Before we go further, one important distinction.
@@ -864,9 +529,6 @@ Use a plain screen or simply speak.
 >
 > Today’s exercise is a method demonstration, not blanket permission to upload research data.
 
-Do not turn this into a legal lecture.
-
-Three minutes is enough.
 
 ---
 
@@ -922,7 +584,6 @@ Say:
 
 > You do not have to scroll through 32 passages. Search by ID.
 
-This tiny technical instruction will save several minutes.
 
 ---
 
@@ -956,9 +617,6 @@ The point:
 
 > When we explicitly ask for exact evidence, “almost exact” is still a failed evidence check.
 
-Do not overdramatize one changed word.
-
-The lesson is auditability, not sensationalism.
 
 ---
 
@@ -1011,7 +669,6 @@ Then:
 
 > Does sending money home describe wages, a pay rate, a deduction, or a payment mechanism?
 
-Let the room debate it.
 
 The point:
 
@@ -1021,9 +678,6 @@ The point:
 
 # Independent audit
 
-Give participants the remaining few minutes to choose one other passage.
-
-Tell them:
 
 > Pick any passage we have not discussed. Compare the result against the source and classify what you find.
 
@@ -1391,7 +1045,6 @@ Say:
 
 Then move directly into the audit exercise.
 
-You can skip Lesson 2's live comparison if necessary.
 
 ---
 
@@ -1415,7 +1068,7 @@ Ask:
 
 > Is the difference caused by evidence selection, code assignment, or explanation?
 
-Do not spend ten minutes trying to decide which run is “correct.”
+
 
 ---
 
@@ -1443,7 +1096,6 @@ Say:
 >
 > An interpretation can be better or worse supported, but reasonable readers may still disagree.
 
-That distinction is central.
 
 ---
 
@@ -1463,7 +1115,6 @@ Cut from:
 - number of test passages in Lesson 4;
 - number of conclusion slides discussed aloud.
 
-Do **not** cut the codebook-repair payoff if possible.
 
 ---
 
@@ -1476,7 +1127,6 @@ Use this compressed plan:
 - use only one independent audit passage;
 - test Version 2 against one passage instead of three.
 
-Do not rush the live demo itself.
 
 ---
 
@@ -1502,9 +1152,7 @@ Use only these conclusion slides:
 
 # 12. If you are ahead of time
 
-Do not add technical material.
 
-Instead, deepen the methodological discussion.
 
 Good extra questions:
 
