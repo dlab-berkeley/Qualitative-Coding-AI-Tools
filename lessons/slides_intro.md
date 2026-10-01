@@ -18,25 +18,22 @@ Welcome everyone. I would like to start our workshop by saying that this is not 
 
 ## What you do not need in our workshop today: You do not need to feel intimated by technical knowledge or background; 
 
-You do **not** need Python.  
-You do **not** need an API key.  
-You do **not** need to understand GitHub.  
-You do **not** need to know how AI works under the hood.
+You do **not** need Python, an API key，or how AI works under the hood. 
 
 If you can read a passage closely and explain why a phrase matters, you can do this workshop.
 
 
 ---
 
-## What we are really asking
+## What we are really asking: 
 
 When an AI tool codes qualitative material, how do we know what it actually did?
 
-Not just:
+When you label a text using AI tools, we are not simply asking:
 
 > Did it give us labels?
 
-But:
+Instead, we are conducting a critical evaluation of this important question:
 
 > Did those labels come from the text?
 
@@ -58,9 +55,7 @@ So the stakes are different from coding product reviews or social media posts.
 
 The Bracero Program brought Mexican workers to the United States through a guest-worker system from 1942 to 1964.
 
-You do not need to know the history in advance.
-
-You only need to keep asking:
+You do not need to know the history in advance. However, you should keep this question in mind when working with this material: 
 
 > What does this passage actually say?
 
@@ -72,9 +67,7 @@ You only need to keep asking:
 
 Coding means attaching a label to a passage because something in that passage matters.
 
-A code is not just a topic tag.
-
-It is a small argument about what the passage is doing.
+A code is not just a topic tag; it actually is a small argument about what the passage is doing.
 
 For example, “wage” is not just any mention of money; it is a claim that the passage is telling us something relevant about payment, deduction, rate, or compensation.
 
@@ -95,7 +88,7 @@ They ask: how is the experience being remembered, judged, or framed?
 
 ## Disagreement is not a failure
 
-If you and the person next to you code the same passage differently, that is useful.
+If you and the person next to you code the same passage differently, that is not a failure. In fact, it gives us the opportunity to think about the reasons behind these perceived differences: 
 
 It might mean the passage is doing more than one thing.
 
@@ -110,12 +103,8 @@ It might mean both readings are defensible.
 
 # No quote, no code.
 
-Every code needs exact words from the passage.
+Every code needs exact words from the passage instead of relying on paraphrases or ambiguity "it seems like"....
 
-No paraphrase.  
-No “it seems like.”
-
-Exact words.
 
 For instance: If an AI model assigns a code but cannot support it with a real quotation, that is not a small formatting problem. That is the thing we are learning to catch.
 
