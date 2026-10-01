@@ -29,9 +29,8 @@ For each passage:
 2. copy the exact words that support your decision; and
 3. write a short reason.
 
-You can use more than one code.
+You can use more than one code, or decide that none of the codes fit. 
 
-You can also decide that none of the codes fit.
 
 The main rule is:
 
@@ -47,12 +46,7 @@ Spend about **12 minutes** coding the six passages on your own.
 
 Do not use AI.
 
-Do not worry about matching anyone else's answer.
-
-The point is not to establish a perfect human answer key.
-
-The point is to make your own reasoning visible.
-
+Do not worry about matching anyone else's answer because we are trying to make our own reasonoing visible instead of trying to establish a perfect answer key.
 ---
 
 # Then compare with one person near you
