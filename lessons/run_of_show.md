@@ -11,7 +11,7 @@ This is **not** a workshop about teaching participants to automate qualitative r
 
 It is a workshop about helping researchers see what changes when an AI system enters a qualitative coding workflow.
 
-The workshop's central arc:
+The workshop's flow:
 
 > **human coding → disagreement → AI coding → instability → evidence audit → codebook repair**
 
@@ -21,18 +21,15 @@ The participants should leave understanding three things:
 2. Requiring exact evidence makes model output much easier to audit.
 3. Disagreement can reveal a problem with the model, a problem with the codebook, or a genuinely ambiguous passage.
 
-The main line to return to throughout the session is:
-
-> **No quote, no code.**
 
 
 # The 100-minute schedule at a glance
 
 | Time | What happens | What you use | What participants use |
 |---|---|---|---|
-| 0:00–0:03 | Welcome | `slides/intro.md` | Nothing yet |
-| 0:03–0:10 | Framing + corpus + coding | `slides/intro.md` | Follow slides |
-| 0:10–0:13 | Codebook orientation | `slides/intro.md` + `codebook.md` | `codebook.md` |
+| 0:00–0:03 | Welcome | `slides_intro.md` | Nothing yet |
+| 0:03–0:10 | Framing + corpus + coding | `slides_intro.md` | Follow slides |
+| 0:10–0:13 | Codebook orientation | `slides_intro.md` + `codebook.md` | `codebook.md` |
 | 0:13–0:29 | Exercise 1: hand coding | Final intro slide | `01_hand_coding.md`, `codebook.md`, `exercise_1_hand_coding.md` |
 | 0:29–0:36 | Human disagreement debrief | No new file needed | Their worksheet |
 | 0:36–0:41 | Draft `T2-HARDSHIP` Version 1 | Whiteboard / shared notes | Their notes |
@@ -40,7 +37,7 @@ The main line to return to throughout the session is:
 | 0:50–0:53 | Governance pause | Speak directly | Listen |
 | 0:53–1:08 | Audit AI output | `03_audit_ai_output.md`, corpus + results | Same files |
 | 1:08–1:23 | Repair `T2-HARDSHIP` | `04_repair_the_codebook.md` | Same lesson |
-| 1:23–1:35 | Conclusion + discussion | `slides/conclusion.md` | Discussion |
+| 1:23–1:35 | Conclusion + discussion | `slides_conclusion.md` | Discussion |
 | 1:35–1:40 | Questions + buffer | As needed | As needed |
 
 That is exactly 100 minutes.
