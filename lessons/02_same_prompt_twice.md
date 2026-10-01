@@ -14,7 +14,7 @@ We are asking whether it produces the **same kind of answer twice**.
 
 Use:
 
-- [`live_demo.md`](../packet/live_demo.md)
+- [`live_demo.md`](lessons/live_demo.md)
 
 It contains:
 
