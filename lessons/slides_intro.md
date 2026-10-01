@@ -146,8 +146,8 @@ Finally, we revise one code together.
 
 Open:
 
-`packet/codebook.md`  
-`packet/exercise_1_hand_coding.md`
+`codebook.md`  
+`exercise_1_hand_coding.md`
 
 For each passage, write down:
 
