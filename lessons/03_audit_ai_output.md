@@ -10,8 +10,8 @@ Now we ask a different question:
 
 Open these two files side by side:
 
-- [`corpus_32_passages.md`](../packet/corpus_32_passages.md) — the source text
-- [`precomputed_results.md`](../packet/precomputed_results.md) — the AI coding output
+- [`corpus_32_passages.md`](corpus_32_passages.md) — the source text
+- [`precomputed_results.md`](precomputed_results.md) — the AI coding output
 
 The results file is **not an answer key**. Treat it like a research assistant's work that needs to be checked.
 
