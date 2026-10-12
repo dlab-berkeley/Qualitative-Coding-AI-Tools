@@ -1,159 +1,99 @@
 <!--
-slides_intro.md
+0_Introductory_Slides.md
 Qualitative Coding with AI Tools
 UC Berkeley D-Lab
 
 Opening slides for participants.
-These slides are deliberately short. The actual work happens in the packet and lesson files.
 -->
 
 # Qualitative Coding with AI Tools
 
-UC Berkeley D-Lab  
+UC Berkeley D-Lab
 
 Note:
-Welcome everyone. I would like to start our workshop by saying that this is not a coding workshop in the programming sense: This is a workshop about reading carefully, using a codebook, and learning how to evaluate AI output in our humanities and social sciences research process. 
+Welcome. "Coding" here means qualitative coding: labeling passages of text with a codebook. There is no programming in this workshop. The question we'll work on is how to check what an AI tool does when it codes interview material for us.
 
 ---
 
-## What you do not need in our workshop today: You do not need to feel intimated by technical knowledge or background; 
-
-You do **not** need Python, an API key，or how AI works under the hood. 
-
-If you can read a passage closely and explain why a phrase matters, you can do this workshop.
+## Qualitative Coding with AI Tools
 
 
 ---
 
-## What we are really asking: 
+## The material
 
-When an AI tool codes qualitative material, how do we know what it actually did?
+Short excerpts from oral history interviews about the Bracero Program (1942–1964), which brought Mexican workers to the United States on temporary labor contracts.
 
-When you label a text using AI tools, we are not simply asking:
+The interviews come from the Institute of Oral History at the University of Texas at El Paso. The narrators are braceros' children, growers and their families, local residents, and people who worked alongside the program.
 
-> Did it give us labels?
-
-Instead, we are conducting a critical evaluation of this important question:
-
-> Did those labels come from the text?
-
+None of the narrators in these excerpts is a bracero. When a passage describes how the workers felt, someone else is telling it.
 
 ---
 
-## The material today
+## What a code is
 
-We are working with short oral-history excerpts connected to the Bracero Program.
+A code is a label you attach to a passage, and a claim about what the passage is doing.
 
-The passages are about work, wages, housing, injury, memory, family, dignity, and contradiction.
+`T1-WAGE` on this passage claims that it tells us something about pay:
 
-So the stakes are different from coding product reviews or social media posts.
+> "the paycheck was probably $2.00"
 
-
----
-
-## A tiny bit of context
-
-The Bracero Program brought Mexican workers to the United States through a guest-worker system from 1942 to 1964.
-
-You do not need to know the history in advance. However, you should keep this question in mind when working with this material: 
-
-> What does this passage actually say?
-
-
+If you can't say what the claim is, the code isn't doing any work.
 
 ---
 
-## What is qualitative coding?
+## Two kinds of codes
 
-Coding means attaching a label to a passage because something in that passage matters.
+**Tier 1** codes record what the passage states: a crop, a place, a wage, a contract term, a procedure.
 
-A code is not just a topic tag; it actually is a small argument about what the passage is doing.
+**Tier 2** codes interpret how the experience is framed: ambivalence, dignity, negotiating power, judgment in hindsight, hardship.
 
-For example, “wage” is not just any mention of money; it is a claim that the passage is telling us something relevant about payment, deduction, rate, or compensation.
-
----
-
-## The codebook is our shared rulebook
-
-Today's codebook has two kinds of codes.
-
-**Tier 1 codes** are closer to the surface of the text.  
-They ask: what is named, described, counted, or explained?
-
-**Tier 2 codes** ask for more interpretation.  
-They ask: how is the experience being remembered, judged, or framed?
-
+Tier 2 codes take more judgment, so expect more disagreement on them, from people and from AI.
 
 ---
 
-## Disagreement is not a failure
+## No quote, no code
 
-If you and the person next to you code the same passage differently, that is not a failure. In fact, it gives us the opportunity to think about the reasons behind these perceived differences: 
+Every code needs the exact words from the passage that support it.
 
-It might mean the passage is doing more than one thing.
+Checkable evidence:
 
-It might mean the code is too vague.
+> "the paycheck was probably $2.00"
 
-It might mean both readings are defensible.
-
-
----
-
-## The rule for today
-
-# No quote, no code.
-
-Every code needs exact words from the passage instead of relying on paraphrases or ambiguity "it seems like"....
-
-
-For instance: If an AI model assigns a code but cannot support it with a real quotation, that is not a small formatting problem. That is the thing we are learning to catch.
-
----
-
-## What good evidence looks like
-
-A checkable evidence span looks like this:
-
-> “the paycheck was probably $2.00”
-
-A weak evidence claim looks like this:
+Not evidence:
 
 > The narrator was poor.
 
-The first one is something we can verify.  
-The second one may be true, but it is not evidence yet.
-
-The point is to force interpretation to stay attached to language that can be checked by another reader.
+The second may be true, but another reader can't check it against the text. We hold AI output to the same rule.
 
 ---
 
-## What we will do together
+## Disagreement tells us something
 
-First, we code by hand.
+When two coders disagree, it's worth asking why. The reason might be that:
 
-Then we compare with another human reader.
+- they focused on different words;
+- they read the same words differently;
+- the passage supports more than one reading; or
+- the code's definition is too loose.
 
-Then we watch the same AI prompt run twice.
-
-Then we audit a precomputed AI coding sheet.
-
-Finally, we revise one code together.
-
+The last one is something we can fix, and we'll do that at the end of the workshop.
 
 ---
 
-## The first exercise
+## Plan for today
 
-Open:
+1. **Human coding:** code six passages by hand, then compare with a partner.
+2. **AI coding:** run the same prompt through an AI agent twice and compare the results.
+3. **Audit:** check a set of AI coding results against the source passages.
+4. **Repair:** rewrite one loosely defined code, `T2-HARDSHIP`.
 
-`codebook.md`  
-`1_Human_Coding.md`
+---
 
-For each passage, write down:
+## Start: Human Coding
 
-1. the code or codes you would apply;
-2. the exact words that support each code;
-3. one sentence explaining your choice.
+Open `1_Human_Coding.md` and the codebook.
 
-Work alone first. Then compare with someone near you.
+Make your own copy of the Challenge 1 worksheet, then code the six passages on your own. No AI for this part.
 
+For each code, write down the code, the exact words that support it, and a short reason.
