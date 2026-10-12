@@ -147,7 +147,7 @@ Finally, we revise one code together.
 Open:
 
 `codebook.md`  
-`exercise_1_hand_coding.md`
+`1_Human_Coding.md`
 
 For each passage, write down:
 
