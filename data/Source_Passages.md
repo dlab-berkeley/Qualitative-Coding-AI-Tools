@@ -10,6 +10,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1561_001'></a>
+
 ## 1. `bha_1561_001` — Arnulfo Pompa
 
 **Role:** bracero's son (grew up in Goodyear Farms labor camp)  
@@ -24,6 +26,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Arnulfo Pompa by Alma Carrillo, 2008, "Interview no. 1561," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1561_002'></a>
 
 ## 2. `bha_1561_002` — Arnulfo Pompa
 
@@ -40,6 +44,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1561_003'></a>
+
 ## 3. `bha_1561_003` — Arnulfo Pompa
 
 **Role:** bracero's son (grew up in Goodyear Farms labor camp)  
@@ -54,6 +60,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Arnulfo Pompa by Alma Carrillo, 2008, "Interview no. 1561," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1561_004'></a>
 
 ## 4. `bha_1561_004` — Arnulfo Pompa
 
@@ -70,6 +78,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1561_005'></a>
+
 ## 5. `bha_1561_005` — Arnulfo Pompa
 
 **Role:** bracero's son (grew up in Goodyear Farms labor camp)  
@@ -84,6 +94,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Arnulfo Pompa by Alma Carrillo, 2008, "Interview no. 1561," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1573_002'></a>
 
 ## 6. `bha_1573_002` — George Veytia
 
@@ -100,6 +112,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1573_001'></a>
+
 ## 7. `bha_1573_001` — George Veytia
 
 **Role:** insurance claims adjuster (company official)  
@@ -114,6 +128,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with George Veytia by Laureano Martinez, 2003, "Interview no. 1573," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1573_004'></a>
 
 ## 8. `bha_1573_004` — George Veytia
 
@@ -130,6 +146,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1573_005'></a>
+
 ## 9. `bha_1573_005` — George Veytia
 
 **Role:** insurance claims adjuster (company official)  
@@ -145,6 +163,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1574_001'></a>
+
 ## 10. `bha_1574_001` — Raymundo Villa
 
 **Role:** labor intermediary (farm foreman's son, interpreter/aide for braceros)  
@@ -159,6 +179,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Raymundo Villa by Richard Baquera, 2003, "Interview no. 1574," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1574_002'></a>
 
 ## 11. `bha_1574_002` — Raymundo Villa
 
@@ -177,6 +199,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1574_003'></a>
+
 ## 12. `bha_1574_003` — Raymundo Villa
 
 **Role:** labor intermediary (farm foreman's son, interpreter/aide for braceros)  
@@ -191,6 +215,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Raymundo Villa by Richard Baquera, 2003, "Interview no. 1574," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1574_004'></a>
 
 ## 13. `bha_1574_004` — Raymundo Villa
 
@@ -207,6 +233,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1582_001'></a>
+
 ## 14. `bha_1582_001` — Sam McNeill
 
 **Role:** grower/farm owner  
@@ -221,6 +249,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Sam McNeill by Mike Bowman, 2008, "Interview no. 1582," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1582_002'></a>
 
 ## 15. `bha_1582_002` — Sam McNeill
 
@@ -237,6 +267,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1582_005'></a>
+
 ## 16. `bha_1582_005` — Sam McNeill
 
 **Role:** grower/farm owner  
@@ -251,6 +283,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Sam McNeill by Mike Bowman, 2008, "Interview no. 1582," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1588_001'></a>
 
 ## 17. `bha_1588_001` — Wonda Lou Wonicar
 
@@ -267,6 +301,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1588_003'></a>
+
 ## 18. `bha_1588_003` — Wonda Lou Wonicar
 
 **Role:** grower's daughter (farm family)  
@@ -281,6 +317,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Wonda Lou Wonicar and Norma Emison by Sam Haskin, 2008, "Interview no. 1588," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1588_004'></a>
 
 ## 19. `bha_1588_004` — Wonda Lou Wonicar
 
@@ -297,6 +335,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1589_001'></a>
+
 ## 20. `bha_1589_001` — Bill Stone
 
 **Role:** grower  
@@ -311,6 +351,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Bill Stone by Brady Banta, 2008, "Interview no. 1589," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1590_001'></a>
 
 ## 21. `bha_1590_001` — Don Stallings
 
@@ -327,6 +369,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1590_002'></a>
+
 ## 22. `bha_1590_002` — Don Stallings
 
 **Role:** grower's son (farm/gin family)  
@@ -341,6 +385,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Don Stallings by Brady Banta, 2008, "Interview no. 1590," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1590_004'></a>
 
 ## 23. `bha_1590_004` — Don Stallings
 
@@ -357,6 +403,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1590_005'></a>
+
 ## 24. `bha_1590_005` — Don Stallings
 
 **Role:** grower's son (farm/gin family)  
@@ -371,6 +419,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Don Stallings by Brady Banta, 2008, "Interview no. 1590," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1591_007'></a>
 
 ## 25. `bha_1591_007` — Jonathan Abbot
 
@@ -390,6 +440,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1591_017'></a>
+
 ## 26. `bha_1591_017` — Jonathan Abbot
 
 **Role:** community observer  
@@ -408,6 +460,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1592_002'></a>
+
 ## 27. `bha_1592_002` — Marion Haynes
 
 **Role:** community observer (child at the time)  
@@ -423,6 +477,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Marion Haynes by Brady Banta, 2008, "Interview no. 1592," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1592_012'></a>
 
 ## 28. `bha_1592_012` — Marion Haynes
 
@@ -440,6 +496,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1593_024'></a>
+
 ## 29. `bha_1593_024` — Max Render
 
 **Role:** employer's son / co-worker  
@@ -456,6 +514,8 @@ You do not need to code every passage in this file. We will use selected passage
 
 ---
 
+<a id='bha_1593_027'></a>
+
 ## 30. `bha_1593_027` — Max Render
 
 **Role:** employer's son / co-worker  
@@ -471,6 +531,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Max Render by Brady Banta, 2008, "Interview no. 1593," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1594_002'></a>
 
 ## 31. `bha_1594_002` — Juanita Parra
 
@@ -491,6 +553,8 @@ You do not need to code every passage in this file. We will use selected passage
 *Source: Interview with Juanita Parra by Mireya Loza, 2008, "Interview no. 1594," Institute of Oral History, University of Texas at El Paso.*
 
 ---
+
+<a id='bha_1594_014'></a>
 
 ## 32. `bha_1594_014` — Juanita Parra
 
