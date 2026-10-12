@@ -9,78 +9,81 @@ Welcome. "Coding" here means qualitative coding: labeling passages of text with 
 
 ---
 
-## The question for today
+## Today's Question
 
-When an AI tool codes qualitative material, how do we check its work?
-
-It's easy to get labels from an AI tool. The harder question is whether each label is supported by the text.
-
-You don't need any programming or technical background. If you can read a passage closely and say why a phrase matters, you have what you need.
+- What does it mean to use AI tools for qualitative methods?
+- This is an active field of research.
+- In this workshop, we treat AI as a tool for *scalable deductive coding.*
 
 ---
 
-## The material
+## The Bracero Program
 
-Short excerpts from oral history interviews about the Bracero Program (1942–1964), which brought Mexican workers to the United States on temporary labor contracts.
+- The Bracero Program brought Mexican workers to U.S. farms from 1942–1964.
 
-The interviews come from the Institute of Oral History at the University of Texas at El Paso. The narrators are braceros' children, growers and their families, local residents, and people who worked alongside the program.
+- The U.S. and Mexican governments agreed to bring Mexican men to work in the United States on short-term contracts, mostly in agriculture.
 
-None of the narrators in these excerpts is a bracero. When a passage describes how the workers felt, someone else is telling it.
+- About 4.6 million contracts were signed over 22 years.
+
+- The contracts promised wages, housing, and food. In practice, workers often did not get what they were promised.
 
 ---
 
-## What a code is
+## Today's Dataset: Bracero Oral History Project
+
+- We use excerpts from oral history interviews held by the Institute of Oral History at the University of Texas at El Paso.
+
+- The narrators are braceros' children, growers and their families, local residents, and people who worked alongside the program.
+
+- When a passage describes how the workers felt, someone else is describing it.
+
+- The dataset does not contain interviews with the braceros themselves.
+
+---
+
+## What is a Code?
 
 A code is a label you attach to a passage, and a claim about what the passage is doing.
 
-`T1-WAGE` on this passage claims that it tells us something about pay:
+`T1-WAGE` on a passage claims that it tells us something about pay.
+
+For example, this span provides evidence for that code:
 
 > "the paycheck was probably $2.00"
 
-If you can't say what the claim is, the code isn't doing any work.
+---
+
+## Two Kinds of Codes in our Codebook
+
+- **Tier 1** codes record what the passage states: a crop, a place, a wage, a contract term, a procedure.
+
+- **Tier 2** codes interpret how the experience is framed: ambivalence, dignity, negotiating power, judgment in hindsight, and hardship.
+
+Tier 2 codes take more judgment, so expect more disagreement on them.
 
 ---
 
-## Two kinds of codes
+## Evidence Spans for Codes
 
-**Tier 1** codes record what the passage states: a crop, a place, a wage, a contract term, a procedure.
+When we code, we will always provide evidence spans from the text.
 
-**Tier 2** codes interpret how the experience is framed: ambivalence, dignity, negotiating power, judgment in hindsight, hardship.
-
-Tier 2 codes take more judgment, so expect more disagreement on them, from people and from AI.
+We will also ask AI tools to provide evidence from the text.
 
 ---
 
-## No quote, no code
+## Disagreement Reveals Issues with AI Models, Codes, and Experiments
 
-Every code needs the exact words from the passage that support it.
+You might find yourself disagreeing with the codes produced by AI models. This could be because:
 
-Checkable evidence:
-
-> "the paycheck was probably $2.00"
-
-Not evidence:
-
-> The narrator was poor.
-
-The second may be true, but another reader can't check it against the text. We hold AI output to the same rule.
+- We need to use a more capable model;
+- We need to use proper settings (like reasoning effort);
+- We need a better prompt;
+- We need a more precise code definition;
+- AI is not suitable for this task.
 
 ---
 
-## Disagreement tells us something
-
-When two coders disagree, it's worth asking why. The reason might be that:
-
-- they focused on different words;
-- they read the same words differently;
-- the passage supports more than one reading; or
-- the code's definition is too loose.
-
-The last one is something we can fix, and we'll do that at the end of the workshop.
-
----
-
-## Plan for today
+## Today: code by hand, code with AI, audit, repair
 
 1. **Human coding:** code six passages by hand, then compare with a partner.
 2. **AI coding:** run the same prompt through an AI agent twice and compare the results.
@@ -89,10 +92,6 @@ The last one is something we can fix, and we'll do that at the end of the worksh
 
 ---
 
-## Start: Human Coding
+## Next: Human Coding
 
-Open `1_Human_Coding.md` and the codebook.
-
-Make your own copy of the Challenge 1 worksheet, then code the six passages on your own. No AI for this part.
-
-For each code, write down the code, the exact words that support it, and a short reason.
+Open `1_Human_Coding.md` and `codebook.md`, both located in the `lessons/` folder.
