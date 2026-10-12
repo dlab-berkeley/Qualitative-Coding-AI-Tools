@@ -12,7 +12,7 @@ For each passage, the model was asked to:
 2. support each code with an exact quotation from the passage; and
 3. note any ambiguity in its own coding.
 
-As you read, keep the [32-passage source corpus](corpus_32_passages.md) open beside this file.
+As you read, keep the [32-passage source corpus](Source_Passages.md) open beside this file.
 
 > **Your job is to audit the output, not to agree with it.**
 
@@ -67,7 +67,7 @@ For any coding decision, ask:
 
 ## bha_1561_001 — Arnulfo Pompa
 
-**Source passage:** [`bha_1561_001` in the 32-passage corpus](corpus_32_passages.md#1-bha-1561-001-arnulfo-pompa)
+**Source passage:** [`bha_1561_001` in the 32-passage corpus](Source_Passages.md#1-bha-1561-001-arnulfo-pompa)
 
 ### Codes assigned by the AI
 
@@ -107,7 +107,7 @@ For any coding decision, ask:
 
 ## bha_1561_002 — Arnulfo Pompa
 
-**Source passage:** [`bha_1561_002` in the 32-passage corpus](corpus_32_passages.md#2-bha-1561-002-arnulfo-pompa)
+**Source passage:** [`bha_1561_002` in the 32-passage corpus](Source_Passages.md#2-bha-1561-002-arnulfo-pompa)
 
 ### Codes assigned by the AI
 
@@ -145,7 +145,7 @@ For any coding decision, ask:
 
 ## bha_1561_003 — Arnulfo Pompa
 
-**Source passage:** [`bha_1561_003` in the 32-passage corpus](corpus_32_passages.md#3-bha-1561-003-arnulfo-pompa)
+**Source passage:** [`bha_1561_003` in the 32-passage corpus](Source_Passages.md#3-bha-1561-003-arnulfo-pompa)
 
 ### Codes assigned by the AI
 
@@ -180,7 +180,7 @@ For any coding decision, ask:
 
 ## bha_1561_004 — Arnulfo Pompa
 
-**Source passage:** [`bha_1561_004` in the 32-passage corpus](corpus_32_passages.md#4-bha-1561-004-arnulfo-pompa)
+**Source passage:** [`bha_1561_004` in the 32-passage corpus](Source_Passages.md#4-bha-1561-004-arnulfo-pompa)
 
 ### Codes assigned by the AI
 
@@ -218,7 +218,7 @@ For any coding decision, ask:
 
 ## bha_1561_005 — Arnulfo Pompa
 
-**Source passage:** [`bha_1561_005` in the 32-passage corpus](corpus_32_passages.md#5-bha-1561-005-arnulfo-pompa)
+**Source passage:** [`bha_1561_005` in the 32-passage corpus](Source_Passages.md#5-bha-1561-005-arnulfo-pompa)
 
 ### Codes assigned by the AI
 
@@ -254,7 +254,7 @@ For any coding decision, ask:
 
 ## bha_1573_002 — George Veytia
 
-**Source passage:** [`bha_1573_002` in the 32-passage corpus](corpus_32_passages.md#6-bha-1573-002-george-veytia)
+**Source passage:** [`bha_1573_002` in the 32-passage corpus](Source_Passages.md#6-bha-1573-002-george-veytia)
 
 ### Codes assigned by the AI
 
@@ -291,7 +291,7 @@ For any coding decision, ask:
 
 ## bha_1573_001 — George Veytia
 
-**Source passage:** [`bha_1573_001` in the 32-passage corpus](corpus_32_passages.md#7-bha-1573-001-george-veytia)
+**Source passage:** [`bha_1573_001` in the 32-passage corpus](Source_Passages.md#7-bha-1573-001-george-veytia)
 
 ### Codes assigned by the AI
 
@@ -330,7 +330,7 @@ For any coding decision, ask:
 
 ## bha_1573_004 — George Veytia
 
-**Source passage:** [`bha_1573_004` in the 32-passage corpus](corpus_32_passages.md#8-bha-1573-004-george-veytia)
+**Source passage:** [`bha_1573_004` in the 32-passage corpus](Source_Passages.md#8-bha-1573-004-george-veytia)
 
 ### Codes assigned by the AI
 
@@ -366,7 +366,7 @@ For any coding decision, ask:
 
 ## bha_1573_005 — George Veytia
 
-**Source passage:** [`bha_1573_005` in the 32-passage corpus](corpus_32_passages.md#9-bha-1573-005-george-veytia)
+**Source passage:** [`bha_1573_005` in the 32-passage corpus](Source_Passages.md#9-bha-1573-005-george-veytia)
 
 ### Codes assigned by the AI
 
@@ -402,7 +402,7 @@ For any coding decision, ask:
 
 ## bha_1574_001 — Raymundo Villa
 
-**Source passage:** [`bha_1574_001` in the 32-passage corpus](corpus_32_passages.md#10-bha-1574-001-raymundo-villa)
+**Source passage:** [`bha_1574_001` in the 32-passage corpus](Source_Passages.md#10-bha-1574-001-raymundo-villa)
 
 ### Codes assigned by the AI
 
@@ -438,7 +438,7 @@ For any coding decision, ask:
 
 ## bha_1574_002 — Raymundo Villa
 
-**Source passage:** [`bha_1574_002` in the 32-passage corpus](corpus_32_passages.md#11-bha-1574-002-raymundo-villa)
+**Source passage:** [`bha_1574_002` in the 32-passage corpus](Source_Passages.md#11-bha-1574-002-raymundo-villa)
 
 ### Codes assigned by the AI
 
@@ -473,7 +473,7 @@ For any coding decision, ask:
 
 ## bha_1574_003 — Raymundo Villa
 
-**Source passage:** [`bha_1574_003` in the 32-passage corpus](corpus_32_passages.md#12-bha-1574-003-raymundo-villa)
+**Source passage:** [`bha_1574_003` in the 32-passage corpus](Source_Passages.md#12-bha-1574-003-raymundo-villa)
 
 ### Codes assigned by the AI
 
@@ -510,7 +510,7 @@ For any coding decision, ask:
 
 ## bha_1574_004 — Raymundo Villa
 
-**Source passage:** [`bha_1574_004` in the 32-passage corpus](corpus_32_passages.md#13-bha-1574-004-raymundo-villa)
+**Source passage:** [`bha_1574_004` in the 32-passage corpus](Source_Passages.md#13-bha-1574-004-raymundo-villa)
 
 ### Codes assigned by the AI
 
@@ -545,7 +545,7 @@ For any coding decision, ask:
 
 ## bha_1582_001 — Sam McNeill
 
-**Source passage:** [`bha_1582_001` in the 32-passage corpus](corpus_32_passages.md#14-bha-1582-001-sam-mcneill)
+**Source passage:** [`bha_1582_001` in the 32-passage corpus](Source_Passages.md#14-bha-1582-001-sam-mcneill)
 
 ### Codes assigned by the AI
 
@@ -582,7 +582,7 @@ For any coding decision, ask:
 
 ## bha_1582_002 — Sam McNeill
 
-**Source passage:** [`bha_1582_002` in the 32-passage corpus](corpus_32_passages.md#15-bha-1582-002-sam-mcneill)
+**Source passage:** [`bha_1582_002` in the 32-passage corpus](Source_Passages.md#15-bha-1582-002-sam-mcneill)
 
 ### Codes assigned by the AI
 
@@ -618,7 +618,7 @@ For any coding decision, ask:
 
 ## bha_1582_005 — Sam McNeill
 
-**Source passage:** [`bha_1582_005` in the 32-passage corpus](corpus_32_passages.md#16-bha-1582-005-sam-mcneill)
+**Source passage:** [`bha_1582_005` in the 32-passage corpus](Source_Passages.md#16-bha-1582-005-sam-mcneill)
 
 ### Codes assigned by the AI
 
@@ -654,7 +654,7 @@ For any coding decision, ask:
 
 ## bha_1588_001 — Wonda Lou Wonicar
 
-**Source passage:** [`bha_1588_001` in the 32-passage corpus](corpus_32_passages.md#17-bha-1588-001-wonda-lou-wonicar)
+**Source passage:** [`bha_1588_001` in the 32-passage corpus](Source_Passages.md#17-bha-1588-001-wonda-lou-wonicar)
 
 ### Codes assigned by the AI
 
@@ -689,7 +689,7 @@ For any coding decision, ask:
 
 ## bha_1588_003 — Wonda Lou Wonicar
 
-**Source passage:** [`bha_1588_003` in the 32-passage corpus](corpus_32_passages.md#18-bha-1588-003-wonda-lou-wonicar)
+**Source passage:** [`bha_1588_003` in the 32-passage corpus](Source_Passages.md#18-bha-1588-003-wonda-lou-wonicar)
 
 ### Codes assigned by the AI
 
@@ -725,7 +725,7 @@ For any coding decision, ask:
 
 ## bha_1588_004 — Wonda Lou Wonicar
 
-**Source passage:** [`bha_1588_004` in the 32-passage corpus](corpus_32_passages.md#19-bha-1588-004-wonda-lou-wonicar)
+**Source passage:** [`bha_1588_004` in the 32-passage corpus](Source_Passages.md#19-bha-1588-004-wonda-lou-wonicar)
 
 ### Codes assigned by the AI
 
@@ -760,7 +760,7 @@ For any coding decision, ask:
 
 ## bha_1589_001 — Bill Stone
 
-**Source passage:** [`bha_1589_001` in the 32-passage corpus](corpus_32_passages.md#20-bha-1589-001-bill-stone)
+**Source passage:** [`bha_1589_001` in the 32-passage corpus](Source_Passages.md#20-bha-1589-001-bill-stone)
 
 ### Codes assigned by the AI
 
@@ -796,7 +796,7 @@ For any coding decision, ask:
 
 ## bha_1590_001 — Don Stallings
 
-**Source passage:** [`bha_1590_001` in the 32-passage corpus](corpus_32_passages.md#21-bha-1590-001-don-stallings)
+**Source passage:** [`bha_1590_001` in the 32-passage corpus](Source_Passages.md#21-bha-1590-001-don-stallings)
 
 ### Codes assigned by the AI
 
@@ -833,7 +833,7 @@ For any coding decision, ask:
 
 ## bha_1590_002 — Don Stallings
 
-**Source passage:** [`bha_1590_002` in the 32-passage corpus](corpus_32_passages.md#22-bha-1590-002-don-stallings)
+**Source passage:** [`bha_1590_002` in the 32-passage corpus](Source_Passages.md#22-bha-1590-002-don-stallings)
 
 ### Codes assigned by the AI
 
@@ -870,7 +870,7 @@ For any coding decision, ask:
 
 ## bha_1590_004 — Don Stallings
 
-**Source passage:** [`bha_1590_004` in the 32-passage corpus](corpus_32_passages.md#23-bha-1590-004-don-stallings)
+**Source passage:** [`bha_1590_004` in the 32-passage corpus](Source_Passages.md#23-bha-1590-004-don-stallings)
 
 ### Codes assigned by the AI
 
@@ -906,7 +906,7 @@ For any coding decision, ask:
 
 ## bha_1590_005 — Don Stallings
 
-**Source passage:** [`bha_1590_005` in the 32-passage corpus](corpus_32_passages.md#24-bha-1590-005-don-stallings)
+**Source passage:** [`bha_1590_005` in the 32-passage corpus](Source_Passages.md#24-bha-1590-005-don-stallings)
 
 ### Codes assigned by the AI
 
@@ -944,7 +944,7 @@ For any coding decision, ask:
 
 ## bha_1591_007 — Jonathan Abbot
 
-**Source passage:** [`bha_1591_007` in the 32-passage corpus](corpus_32_passages.md#25-bha-1591-007-jonathan-abbot)
+**Source passage:** [`bha_1591_007` in the 32-passage corpus](Source_Passages.md#25-bha-1591-007-jonathan-abbot)
 
 ### Codes assigned by the AI
 
@@ -980,7 +980,7 @@ For any coding decision, ask:
 
 ## bha_1591_017 — Jonathan Abbot
 
-**Source passage:** [`bha_1591_017` in the 32-passage corpus](corpus_32_passages.md#26-bha-1591-017-jonathan-abbot)
+**Source passage:** [`bha_1591_017` in the 32-passage corpus](Source_Passages.md#26-bha-1591-017-jonathan-abbot)
 
 ### Codes assigned by the AI
 
@@ -1016,7 +1016,7 @@ For any coding decision, ask:
 
 ## bha_1592_002 — Marion Haynes
 
-**Source passage:** [`bha_1592_002` in the 32-passage corpus](corpus_32_passages.md#27-bha-1592-002-marion-haynes)
+**Source passage:** [`bha_1592_002` in the 32-passage corpus](Source_Passages.md#27-bha-1592-002-marion-haynes)
 
 ### Codes assigned by the AI
 
@@ -1052,7 +1052,7 @@ For any coding decision, ask:
 
 ## bha_1592_012 — Marion Haynes
 
-**Source passage:** [`bha_1592_012` in the 32-passage corpus](corpus_32_passages.md#28-bha-1592-012-marion-haynes)
+**Source passage:** [`bha_1592_012` in the 32-passage corpus](Source_Passages.md#28-bha-1592-012-marion-haynes)
 
 ### Codes assigned by the AI
 
@@ -1089,7 +1089,7 @@ For any coding decision, ask:
 
 ## bha_1593_024 — Max Render
 
-**Source passage:** [`bha_1593_024` in the 32-passage corpus](corpus_32_passages.md#29-bha-1593-024-max-render)
+**Source passage:** [`bha_1593_024` in the 32-passage corpus](Source_Passages.md#29-bha-1593-024-max-render)
 
 ### Codes assigned by the AI
 
@@ -1125,7 +1125,7 @@ For any coding decision, ask:
 
 ## bha_1593_027 — Max Render
 
-**Source passage:** [`bha_1593_027` in the 32-passage corpus](corpus_32_passages.md#30-bha-1593-027-max-render)
+**Source passage:** [`bha_1593_027` in the 32-passage corpus](Source_Passages.md#30-bha-1593-027-max-render)
 
 ### Codes assigned by the AI
 
@@ -1163,7 +1163,7 @@ For any coding decision, ask:
 
 ## bha_1594_002 — Juanita Parra
 
-**Source passage:** [`bha_1594_002` in the 32-passage corpus](corpus_32_passages.md#31-bha-1594-002-juanita-parra)
+**Source passage:** [`bha_1594_002` in the 32-passage corpus](Source_Passages.md#31-bha-1594-002-juanita-parra)
 
 ### Codes assigned by the AI
 
@@ -1199,7 +1199,7 @@ For any coding decision, ask:
 
 ## bha_1594_014 — Juanita Parra
 
-**Source passage:** [`bha_1594_014` in the 32-passage corpus](corpus_32_passages.md#32-bha-1594-014-juanita-parra)
+**Source passage:** [`bha_1594_014` in the 32-passage corpus](Source_Passages.md#32-bha-1594-014-juanita-parra)
 
 ### Codes assigned by the AI
 
