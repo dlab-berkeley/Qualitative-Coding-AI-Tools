@@ -1,108 +1,50 @@
-# Lesson 1 — Hand-Code Before You Ask the AI
+# Qualitative Coding with AI Tools: Human Coding
 
-**Time: about 16 minutes**
+### Learning Objectives
 
-We are going to start without AI.
+- Apply a codebook to oral history passages by hand.
+- Support each coding decision with the exact words from the source.
+- Compare your coding with a partner's and identify where disagreement comes from.
 
-That is important.
+### Icons Used in This Notebook
+🥊 **Challenge**: Interactive exercise. We'll work through these in the workshop!<br>
+💡 **Tip**: How to do something a bit more efficiently or effectively.<br>
 
-Before we can evaluate what a model does with a codebook, we need to see what happens when **people** use the same codebook.
+### Sections
+1. [Getting Started with Human Coding](#section1)
+2. [Challenge 1: Code Six Passages](#section2)
+3. [Challenge 2: Compare Codes with a Partner](#section3)
 
----
+<a id='section1'></a>
 
-## Open these two files
+# Getting Started with Human Coding
 
-Keep both open:
+Before we ask an AI agent to apply the codebook to the passages, we're going to get familiar with the codebook ourselves. We'll begin by applying the codebook to six passages.
 
-- [`codebook.md`](../packet/codebook.md)
-- [`exercise_1_hand_coding.md`](../packet/exercise_1_hand_coding.md)
+Begin by opening [`codebook.md`](codebook.md) to take a closer look at the codes we will be using.
 
-You will work from the exercise sheet.
+Then, proceed to Challenge 1.
 
----
+<a id='section2'></a>
 
-# What to do
+## 🥊 Challenge 1: Code Six Passages
 
-For each passage:
+Open the [Challenge 1 worksheet](https://docs.google.com/document/d/12irlHyVBwaSLPFkR0IPz-TcyIASODNgyGgrcrOx8rYY/edit?usp=sharing), and click `File > Make a copy`. In your own version of this document, follow the instructions to code the six passages shown. You can also find them in [`Source_Passages.md`](../data/Source_Passages.md).
 
-1. choose any code or codes that apply;
-2. copy the exact words that support your decision; and
-3. write a short reason.
+<a id='section3'></a>
 
-You can use more than one code, or decide that none of the codes fit. 
+## 🥊 Challenge 2: Compare Codes with a Partner
 
+Next, with the person next to you, or in a breakout room, compare the codes you assigned. You do **not** need to reach agreement. Instead, you should spend time discussing why you made different decisions, if you did. 
 
-The main rule is:
+You may have made different decisions for any number of reasons:
 
-> **No quote, no code.**
+- You may have noticed different evidence.
+- You may have interpreted the same evidence differently.
+- You may have interpreted the code differently.
+- You may have not found the code clear enough.
+- Or, some other reason.
 
-If you cannot point to the words that support your decision, reconsider the code.
+Find **one passage where you agreed** and **one passage where you disagreed**.
 
----
-
-# Work alone first
-
-Spend about **12 minutes** coding the six passages on your own.
-
-Do not use AI.
-
-Do not worry about matching anyone else's answer because we are trying to make our own reasonoing visible instead of trying to establish a perfect answer key.
----
-
-# Then compare with one person near you
-
-Spend about **4 minutes** comparing your coding.
-
-Find:
-
-- one passage where you agreed;
-- one passage where you disagreed; and
-- one question you now have about `T2-HARDSHIP`.
-
-Do not try to force agreement.
-
-Instead, ask:
-
-> **Why did we make different decisions?**
-
-Was it because:
-
-- we noticed different evidence?
-- we interpreted the same evidence differently?
-- we understood the code differently?
-- the code itself is not clear enough?
-
----
-
-# What to notice
-
-Some codes will probably feel easier to use than others.
-
-A named crop or a dollar amount may be relatively straightforward.
-
-A code like `T2-DIGNITY`, `T2-AMBIV`, or `T2-HARDSHIP` may require more interpretation.
-
-That difference matters.
-
-Later, when we compare human coding with AI coding, we do not want to treat every disagreement as the same kind of error.
-
----
-
-# Before we move on
-
-Keep your worksheet.
-
-Especially keep:
-
-- the passage where you disagreed with your partner; and
-- your first thoughts about what should count as `T2-HARDSHIP`.
-
-We will come back to both.
-
----
-
-## Next
-
-When the group is ready, continue to:
-
-[`02_same_prompt_twice.md`](02_same_prompt_twice.md)
+💡 **Tip:** The disagreements you may have had are important. You should keep these in mind going forward, particularly when we ask AI to code for us. Also, note your first thoughts about what should count as `T2-HARDSHIP`. We will return to this code in particular later.
