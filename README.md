@@ -58,24 +58,6 @@ There is nothing to install. You should use an Agentic AI tool of your choice, s
      `codebook.md` sitting side by side.
 4. Optional, if you use git: `git clone https://github.com/dlab-berkeley/Qualitative-Coding-with-AI-Tools.git`
 
-Full instructions, written for people who have never done any of this, are in
-[`setup-guide.md`](setup-guide.md).
-
-## Run the Materials
-
-There is no code to run. During the session you work from two files:
-
-1. **[`participant-handbook.md`](participant-handbook.md)** — open this at the start
-   and keep it open. Every prompt you need to paste is in it, along with the
-   worksheets for each exercise. You should never have to copy anything off a slide.
-2. **[`codebook.md`](codebook.md)** — the ten codes we apply. You paste this into the
-   chat tool as part of the prompt, and refer to it while hand-coding.
-
-The passages live in [`passages/`](passages/), one short text file each. Open one in
-any text editor to see what they look like — but **please do not code them before
-the workshop**, since the first exercise depends on everyone meeting the passage
-cold.
-
 ## Additional Resources
 
 * [Bracero History Archive](https://braceroarchive.org/): The archive our passages
